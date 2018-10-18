@@ -7,5 +7,5 @@ def fizbuzz(num)
   elsif num % 5 == 0 
     puts "Buzz"
   elsif num % 3 == 0 && % 5 == 0
-    puts "fizbuzz"
+    puts "FizBuzz"
 end
